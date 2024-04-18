@@ -1,0 +1,16 @@
+daily_progress:
+  - date: 2024-04-16
+    day_number: 1
+    activities:
+      - finished first lecture video of fastai
+      - worked on SVD homework
+    thoughts:
+    hours_spent: 4
+  - date: 2024-04-17
+    day_number: 2
+    activites: 
+      - linear algebra review
+      - finished lesson 2 of fast ai
+      - built simple image classifier
+      - 'started ch1 of deep learning architectures: a mathematical approach'
+    hours_spent: 6
