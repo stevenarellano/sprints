@@ -8,9 +8,16 @@ daily_progress:
     hours_spent: 4
   - date: 2024-04-17
     day_number: 2
-    activites: 
+    activites:
       - linear algebra review
       - finished lesson 2 of fast ai
       - built simple image classifier
       - 'started ch1 of deep learning architectures: a mathematical approach'
+    hours_spent: 6
+  - date: 2024-04-18
+    day_number: 3
+    activities:
+      - studied for an ml course midterm
+      - 'finished ch1 of started ch1 of deep learning architectures: a mathematical approach'
+      - finished all of ch1 exercises, as well.
     hours_spent: 6
