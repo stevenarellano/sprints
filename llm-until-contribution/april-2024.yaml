@@ -47,3 +47,9 @@ daily_progress:
       - trying to have a few ml models iterated on this week from scratch
       - a lot of the indirect work required is figuring out the next steps -- surveying papers, exploring ideas, etc.
     hours_spent: 3
+  - date: 2024-04-23
+    day_number: 8
+    activites:
+      - completed lesson 5 of fastai ('from-scratch model')
+      - build out a few neural nets using pytorch
+      - curious about the internals of ml frameworks so maybe a deep dive into repos like {autograd, micrograd, tf, pytorch, etc} is in store
