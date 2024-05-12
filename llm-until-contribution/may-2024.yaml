@@ -1,0 +1,62 @@
+daily_progress:
+  - date: 2024-05-01
+    day_number: 15
+    activities:
+      - finished exercises from "Deep Learning Architectures" Ch17 (RNN)
+      - worked on math for ml pset
+    hours_spent: 6
+  - date: 2024-05-02
+    day_number: 16
+    activities:
+      - finished math for ml pset
+    hours_spent: 2
+  - date: 2024-05-03
+    day_number: 17
+    activities:
+      - started making a stable diffusion app
+      - built RNN + LSTM models from scratch
+    hours_spent: 8
+  - date: 2024-05-04
+    day_number: 18
+    activities:
+      - started learning transformer fundamentals
+    hours_spent: 2
+  - date: 2024-05-05
+    day_number: 19
+    activities:
+      - worked on algorithmic game theory pset
+    hours_spent: 2
+  - date: 2024-05-06
+    day_number: 20
+    activities:
+      - worked on algorithmic game theory pset
+      - working through Karpathy's "Let's Build GPT"
+    hours_spent: 2
+  - date: 2024-05-07
+    day_number: 21
+    activities:
+      - studied transformers + attention
+    hours_spent: 4
+  - date: 2024-05-08
+    day_number: 22
+    activities:
+      - studied transformers
+      - finished Karpathy's GPT from scratch
+      - read a few robotics + HCI papers
+    hours_spent: 6
+  - date: 2024-05-09
+    day_number: 23
+    activities:
+      - started math for ml pset
+    hours_spent: 2
+  - date: 2024-05-10
+    day_number: 24
+    activities:
+      - worked on math for ml pset
+      - read algorithmic game theory papers
+    hours_spent: 4
+  - date: 2024-05-11
+    day_number: 25
+    activities:
+      - worked on math for ml pset
+    hours_spent: 3

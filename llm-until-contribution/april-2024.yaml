@@ -53,3 +53,41 @@ daily_progress:
       - completed lesson 5 of fastai ('from-scratch model')
       - build out a few neural nets using pytorch
       - curious about the internals of ml frameworks so maybe a deep dive into repos like {autograd, micrograd, tf, pytorch, etc} is in store
+  - date: 2024-04-24
+    day_number: 9
+    activities:
+      - worked on algorithmic game theory pset
+    hours_spent: 4
+  - date: 2024-04-25
+    day_number: 10
+    activities:
+      - finished OLS in cpp
+      - worked on math for ml pset
+    thoughts:
+      - pushing weekly to advance in all of the 3: ml math foundations, ml engineering, and ml research
+      - happy about: deepened understanding of linear algebra, moved to knowing how to develop a model from scratch, understand (high-level) how ml frameworks work, and surveyed around a few…
+    hours_spent: 5
+  - date: 2024-04-27
+    day_number: 11
+    activities:
+      - finished math for ml pset
+      - surveyed robotics
+    hours_spent: 4
+  - date: 2024-04-28
+    day_number: 12
+    activities:
+      - studied algorithmic game theory
+    hours_spent: 2
+  - date: 2024-04-29
+    day_number: 13
+    activities:
+      - finished lesson 15 of fastai
+      - finished lesson 24 of fastai
+      - worked on math for ml pset
+    hours_spent: 4
+  - date: 2024-04-30
+    day_number: 14
+    activities:
+      - started "Deep Learning Architectures: A Mathematical Approach" Ch17 (RNN)
+      - read algorithmic game theory papers
+    hours_spent: 3
