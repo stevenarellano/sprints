@@ -1,0 +1,26 @@
+daily_progress:
+  - date: 2024-06-01
+    day_number: 46
+    activities:
+      - read about diffusion
+    hours_spent: 1
+  - date: 2024-06-02
+    day_number: 47
+    activities:
+      - studied diffusion
+    hours_spent: 1
+  - date: 2024-06-03
+    day_number: 48
+    activities:
+      - studied diffusion
+    hours_spent: 1
+  - date: 2024-06-04
+    day_number: 49
+    activities:
+      - studied diffusion
+    hours_spent: 1
+  - date: 2024-06-05
+    day_number: 50
+    activities:
+      - dive into GANs
+    hours_spent: 1

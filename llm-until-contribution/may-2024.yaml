@@ -85,3 +85,91 @@ daily_progress:
       - worked on a robotics project
       - continued studying transformers and attention
     hours_spent: 9
+  - date: 2024-05-16
+    day_number: 30
+    activities:
+      - read bci papers
+      - worked on technical paper review
+    hours_spent: 7
+  - date: 2024-05-17
+    day_number: 31
+    activities:
+      - studied for math for ml final
+    hours_spent: 4
+  - date: 2024-05-18
+    day_number: 32
+    activities:
+      - studied ml fundamentals: ridge regression, svm, gradient descent, etc.
+    hours_spent: 5
+  - date: 2024-05-19
+    day_number: 33
+    activities:
+      - studied ml fundamentals: stochastic gradient descent, backprop
+      - read a few bci papers + wrote survey/paper on bci
+    hours_spent: 7
+  - date: 2024-05-20
+    day_number: 34
+    activities:
+      - worked on robotics project
+      - studied for ml final
+    hours_spent: 5
+  - date: 2024-05-21
+    day_number: 35
+    activities:
+      - worked on robotics project
+      - studied for ml final
+    hours_spent: 3
+  - date: 2024-05-22
+    day_number: 36
+    activities:
+      - worked on robotics project
+      - studied for ml final
+    hours_spent: 5
+  - date: 2024-05-23
+    day_number: 37
+    activities:
+      - studied ml fundamentals: pca, backprop, kernel methods
+    hours_spent: 2
+  - date: 2024-05-24
+    day_number: 38
+    activities:
+      - read bci papers
+    hours_spent: 2
+  - date: 2024-05-25
+    day_number: 39
+    activities:
+      - read bci papers
+    hours_spent: 2
+- date: 2024-05-26
+    day_number: 40
+    activities:
+      - worked on transformer/attention study sheet
+      - read bci papers
+    hours_spent: 2
+  - date: 2024-05-27
+    day_number: 41
+    activities:
+      - worked on llm side project
+      - studied bci
+    hours_spent: 8
+  - date: 2024-05-28
+    day_number: 42
+    activities:
+      - studied transformers, attention, and history of nlp
+    hours_spent: 4
+  - date: 2024-05-29
+    day_number: 43
+    activities:
+      - studied neural language model scaling laws
+      - studied history of ai
+    hours_spent: 4
+  - date: 2024-05-30
+    day_number: 44
+    activities:
+      - reviewed history of ml
+    hours_spent: 2
+  - date: 2024-05-31
+    day_number: 45
+    activities:
+      - read hci-ai paper
+    hours_spent: 1
